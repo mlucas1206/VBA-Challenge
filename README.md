@@ -10,7 +10,7 @@ The filename of muy code is **MultiYear Stock Data.bas**
 
 * Placed links in my code if I looked for help online for code
 
-* 
+* Warning: Code takes hours to run
 
 ---
 
